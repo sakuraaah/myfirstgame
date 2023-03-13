@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Heal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 303106919
+    locked: 0
+  - name: background elements
+    uniqueID: 2319892717
+    locked: 0
+  - name: 3rd plan
+    uniqueID: 150302135
+    locked: 0
+  - name: 2nd plan
+    uniqueID: 1511748747
+    locked: 0
+  - name: 1st plan
+    uniqueID: 3966314679
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
